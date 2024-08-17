@@ -41,3 +41,7 @@ p{
     width:1414px;
     text-align: center;
 }
+ul li a {
+    color:white;
+    text-decoration: none;
+  }
